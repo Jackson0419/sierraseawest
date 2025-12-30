@@ -1,4 +1,15 @@
 
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-16499473101">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-16499473101');
+</script>
 <meta name="description" content="「SIERRA SEA」座落海映路 8 號，為新地歷來最大型私人住宅項目#發展板圖之頭炮，由4座大樓組成，提供 781個優質住宅單位，現正申請預售樓花同意書。「SIERRA SEA」布局座向匠心獨運，大部份單位坐擁廣闊海景或翠綠山巒景致，部分單位更享西沙全新綜合地標「GO PARK」 景觀，貼心滿足不同住戶的需求。">
     <meta property="og:description" content="「SIERRA SEA」座落海映路 8 號，為新地歷來最大型私人住宅項目#發展板圖之頭炮，由4座大樓組成，提供 781個優質住宅單位，現正申請預售樓花同意書。「SIERRA SEA」布局座向匠心獨運，大部份單位坐擁廣闊海景或翠綠山巒景致，部分單位更享西沙全新綜合地標「GO PARK」 景觀，貼心滿足不同住戶的需求。">
 
